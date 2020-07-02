@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main()
+{
+print("Welcome to GitHub")
+return 0;
+}
